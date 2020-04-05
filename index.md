@@ -2,9 +2,6 @@
 <head>
  <title>鉲鏑鈉排球</title>
  <style>
-  
-  <body bgcolor="#xxxxxx" text="#xxxxxx" link="#xxxxxx" vlink="#xxxxxx" alink="#xxxxxx">
- 
 </style>
  </head>
 
@@ -50,3 +47,4 @@
    </ul>
  
 </body>
+</html>
