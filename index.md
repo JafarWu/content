@@ -1,8 +1,11 @@
 <html>
 <head>
  <title>鉲鏑鈉排球</title>
- <style>
-</style>
+<style>
+   body{
+    background-color:LightCyan;
+    }
+  </style>
  </head>
 
  <body bgcolor="Cyan" text="Snow" link="Black" vlink="Black" alink="Black">
