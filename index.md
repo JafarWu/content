@@ -12,9 +12,9 @@
 <h1 style="color:DodgerBlue;>遊戲內容</h1>
  
  <p> </p>
- <h2 style="color:DodgerBlue;>
+ <h2 style="color:DodgerBlue;">
   <ul>
-    <li style="color:DodgerBlue;>排球為主的遊戲</li>
+    <li style="color:DodgerBlue;">排球為主的遊戲</li>
     <img src="排球封面.jpg">
    </ul>
    
