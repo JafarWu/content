@@ -2,13 +2,13 @@
 <head>
  <title>鉲鏑鈉排球</title>
  <style>
-  body {
-    background: url("背景星星.png")
-  }
+  
+  <body bgcolor="#xxxxxx" text="#xxxxxx" link="#xxxxxx" vlink="#xxxxxx" alink="#xxxxxx">
+ 
 </style>
  </head>
 
-<body>
+ <body bgcolor="Cyan" text="Snow" link="Black" vlink="Black" alink="Black">
 <h3>遊戲內容</h3>
   
   <ul>
