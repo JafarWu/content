@@ -9,9 +9,10 @@
  </head>
 
  <body bgcolor="Cyan" text="Snow" link="Black" vlink="Black" alink="Black">
-<h3>遊戲內容</h3>
+<h1>遊戲內容</h1>
  
  <p> </p>
+ <h2>
   <ul>
     <li>排球為主的遊戲</li>
     <img src="排球封面.jpg">
@@ -48,6 +49,7 @@
  操作方法:
   <p> </p>
  [跳:W鍵 前進:A鍵 後退:D鍵 必殺技:S鍵](上圖) 
+ </h2>
 
 </body>
 </html>
