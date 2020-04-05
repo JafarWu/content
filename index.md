@@ -10,7 +10,14 @@
 
  <body bgcolor="Cyan" text="Snow" link="Black" vlink="Black" alink="Black">
 <h3>遊戲內容</h3>
-  
+ 
+ <p> </p>
+  <ul>
+    <li>排球為主的遊戲</li>
+    <img src="排球封面.jpg">
+   </ul>
+   
+   <p> </p>
   <ul>
     <li>以同學頭像為基礎的角色</li>
    </ul>
@@ -42,12 +49,5 @@
   <p> </p>
  [跳:W鍵 前進:A鍵 後退:D鍵 必殺技:S鍵](上圖) 
 
- 
- <p> </p>
-  <ul>
-    <li>排球為主的遊戲</li>
-    <img src="排球封面.jpg">
-   </ul>
- 
 </body>
 </html>
