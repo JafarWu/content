@@ -9,12 +9,12 @@
  </head>
 
  <body bgcolor="Cyan" text="Snow" link="Black" vlink="Black" alink="Black">
-<h1>遊戲內容</h1>
+<h1 style="color:DodgerBlue;>遊戲內容</h1>
  
  <p> </p>
- <h2>
+ <h2 style="color:DodgerBlue;>
   <ul>
-    <li>排球為主的遊戲</li>
+    <li style="color:DodgerBlue;>排球為主的遊戲</li>
     <img src="排球封面.jpg">
    </ul>
    
