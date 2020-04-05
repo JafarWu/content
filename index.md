@@ -9,7 +9,7 @@
  </head>
 
  <body bgcolor="Cyan" text="Snow" link="Black" vlink="Black" alink="Black">
-<h1 style="color:DodgerBlue;>遊戲內容</h1>
+<h1 style="color:DodgerBlue;">遊戲內容</h1>
  
  <p> </p>
  <h2 style="color:DodgerBlue;">
