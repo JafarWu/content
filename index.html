@@ -6,6 +6,15 @@
     background-color:LightCyan;
     }
   </style>
+ 
+ <scrip src="http://code.jquery.com/jquery-3.3.1.js"></scrip>
+ <script>
+ $(document).ready(function () {
+    $("返回頂部").click(function () {
+        $("html,body").animate({ scrollTop: $("body").offset().top }, 10);
+    });
+});
+ </script>
  </head>
 
  <body bgcolor="Cyan" text="Snow" link="Black" vlink="Black" alink="Black">
@@ -49,6 +58,10 @@
  操作方法:
   <br>
  [跳:W鍵 前進:A鍵 後退:D鍵 必殺技:S鍵](上圖) 
+ </h2>
+  <br>
+  <h2>
+ <a class="top" href="#">返回頂部</a>
  </h2>
 
 </body>
